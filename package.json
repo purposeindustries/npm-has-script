@@ -1,6 +1,6 @@
 {
   "name": "npm-has-script",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check npm.scripts for the given script",
   "main": "index.js",
   "scripts": {
