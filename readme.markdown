@@ -24,7 +24,7 @@ It throws if the `dir` does not contain a `package.json` file, or `name` is not 
 
 ## license
 
-MIT
+ISC
 
 [npm-has-script]: https://npmjs.com/npm-has-script
 [npm]: https://npmjs.com/
