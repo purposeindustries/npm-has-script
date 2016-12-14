@@ -4,6 +4,8 @@
 
 ## install
 
+Install the [package][npm-has-script] with [npm][npm]:
+
 ```sh
 $ npm install --save npm-has-script
 ```
